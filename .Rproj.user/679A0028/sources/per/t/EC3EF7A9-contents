@@ -1,0 +1,2 @@
+attach()
+install.packages("MASS")
